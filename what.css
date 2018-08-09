@@ -1,0 +1,14 @@
+.nav ul{
+    list-style:none;
+    text-align: center;
+}
+
+.nav li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 300%;
+}
+body{
+    font-family: 'Do Hyeon', sans-serif;
+    background-color: #39CF24;
+}
